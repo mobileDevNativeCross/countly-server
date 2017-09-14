@@ -1,0 +1,17 @@
+{
+  "name": "countly-times-of-day",
+  "title": "Times of day",
+  "version": "0.0.0",
+  "description": "Records and visualises days (Monday to Sunday) and times (12 am to 11pm) of all sessions and custom events.",
+  "author": "Count.ly",
+  "homepage": "https://count.ly/marketplace/",
+  "repository" :{ "type" : "git", "url" : "http://github.com/Countly/countly-server.git"},
+  "bugs":{ "url" : "http://github.com/Countly/countly-server/issues"},
+  "keywords": [
+    "countly",
+    "analytics",
+    "times of day"
+  ],
+  "dependencies": {},
+  "private": true
+}
